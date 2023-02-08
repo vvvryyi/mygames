@@ -1,0 +1,17 @@
+a{
+    color:rgb(0, 77, 108);
+    font-size: 20px ;
+}
+li{
+    line-height: 150%;
+}
+body{
+    background: linear-gradient(yellow, white);
+    min-height: 100vh;
+}
+a.labirintov{
+    font-weight: bold; 
+}
+a.zabege{
+    color: crimson;
+}
